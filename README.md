@@ -1,4 +1,6 @@
 # Curveball
-Inertial motor-less and self-driving car made from Lego frame and Arduino Nano combined with various sensors.
+Inertial motor-less and self-driving car for Science On Tourne 2021 competition.
+## Motivation
+The car needs to go forward and reverse using nothing but its inertia from going down a ramp.
 ## Description and Usage
-The goal of this project was to use a geared motor with a custom 3D printed support to be mounted to window blinds so that they could be manually or automatically controlled via an ESP-32 microcontroller. By connecting the device to the local network, it would be possible to control the blinds with a basic WebServer and an infrared receiver. Additionally, a current sensor is used to stop the motors at extremities.
+The car is made from Lego frame and Arduino Nano connected to a rotary encoder.
